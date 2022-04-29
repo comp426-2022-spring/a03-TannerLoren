@@ -122,7 +122,7 @@ app.use(function(req, res){
   }
     
   
-  /** Flip a coin! 
+  /** Flip a coin!
    * 
    * Write a function that accepts one input parameter: a string either "heads" or "tails", flips a coin, and then records "win" or "lose". 
    * 
